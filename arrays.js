@@ -4,4 +4,3 @@ function addElementToBeginningOfArray("element", "array") {
   addElementToBeginningOfArray.unshift(element)
   return addElementToBeginningOfArray()
 }
-
